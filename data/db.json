@@ -4,13 +4,42 @@
       "id": 1,
       "title": "welcome to the new blog",
       "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quis, illo sint ex, impedit fugiat at numquam aliquid nulla iste eaque, saepe quaerat temporibus tempore nam. A, eius. Sapiente, esse?",
-      "tags": ["webdev", "coding", "news"]
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
     },
     {
       "id": 2,
       "title": "top 5 CSS tips",
       "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur quis, illo sint ex, impedit fugiat at numquam aliquid nulla iste eaque, saepe quaerat temporibus tempore nam. A, eius. Sapiente, esse?",
-      "tags": ["css", "webdev", "coding"]
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "fdsaf",
+      "body": "gasdfsad",
+      "tags": [
+        "html",
+        "css",
+        "vue"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Blorplorf",
+      "body": "Lorem Ipsum",
+      "tags": [
+        "asd",
+        "dsa",
+        "fre",
+        "terf"
+      ],
+      "id": 4
     }
   ]
 }
